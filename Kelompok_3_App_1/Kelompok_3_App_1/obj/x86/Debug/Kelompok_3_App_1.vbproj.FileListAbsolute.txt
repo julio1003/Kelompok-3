@@ -1,0 +1,11 @@
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\bin\Debug\Kelompok_3_App_1.exe
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\bin\Debug\Kelompok_3_App_1.pdb
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\bin\Debug\Kelompok_3_App_1.xml
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\obj\x86\Debug\Kelompok_3_App_1.Form1.resources
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\obj\x86\Debug\Kelompok_3_App_1.Form2.resources
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\obj\x86\Debug\Kelompok_3_App_1.Resources.resources
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\obj\x86\Debug\Kelompok_3_App_1.vbproj.GenerateResource.Cache
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\obj\x86\Debug\Kelompok_3_App_1.exe
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\obj\x86\Debug\Kelompok_3_App_1.xml
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\obj\x86\Debug\Kelompok_3_App_1.pdb
+C:\App Kel 3\Kelompok_3_App_1\Kelompok_3_App_1\obj\x86\Debug\Kelompok_3_App_1.Form3.resources
