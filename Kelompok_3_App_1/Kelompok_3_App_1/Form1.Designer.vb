@@ -31,39 +31,42 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Impact", 72.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(292, 56)
+        Me.Label1.BackColor = System.Drawing.SystemColors.InactiveBorder
+        Me.Label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.Label1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Label1.Font = New System.Drawing.Font("Palatino Linotype", 72.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(246, 45)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(597, 145)
+        Me.Label1.Size = New System.Drawing.Size(690, 163)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Main Menu"
         '
         'Button1
         '
-        Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 48.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.Location = New System.Drawing.Point(292, 228)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(597, 105)
+        Me.Button1.Size = New System.Drawing.Size(597, 83)
         Me.Button1.TabIndex = 1
-        Me.Button1.Text = "Go to Form 2"
+        Me.Button1.Text = "Pemilihan Mapel"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
         '
-        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 48.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(293, 447)
+        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Location = New System.Drawing.Point(934, 501)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(596, 96)
+        Me.Button2.Size = New System.Drawing.Size(139, 52)
         Me.Button2.TabIndex = 2
         Me.Button2.Text = "Exit"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
         '
-        Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 48.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(292, 339)
+        Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.Location = New System.Drawing.Point(292, 336)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(596, 102)
+        Me.Button3.Size = New System.Drawing.Size(597, 83)
         Me.Button3.TabIndex = 3
         Me.Button3.Text = "Go to Form 3"
         Me.Button3.UseVisualStyleBackColor = True
@@ -72,7 +75,8 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1134, 724)
+        Me.BackColor = System.Drawing.Color.CornflowerBlue
+        Me.ClientSize = New System.Drawing.Size(1120, 565)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
