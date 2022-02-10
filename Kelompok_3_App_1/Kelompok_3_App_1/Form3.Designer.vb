@@ -22,42 +22,79 @@ Partial Class Form3
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.DTTanggal = New System.Windows.Forms.DateTimePicker()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button3 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
+        '
+        'DTTanggal
+        '
+        Me.DTTanggal.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.DTTanggal.Location = New System.Drawing.Point(296, 150)
+        Me.DTTanggal.Name = "DTTanggal"
+        Me.DTTanggal.Size = New System.Drawing.Size(440, 38)
+        Me.DTTanggal.TabIndex = 0
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox1.Location = New System.Drawing.Point(297, 229)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(439, 38)
+        Me.TextBox1.TabIndex = 1
         '
         'Button1
         '
-        Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 48.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(84, 95)
+        Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Location = New System.Drawing.Point(390, 316)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(694, 166)
-        Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Go to Form 1"
+        Me.Button1.Size = New System.Drawing.Size(224, 67)
+        Me.Button1.TabIndex = 2
+        Me.Button1.Text = "Test"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
         '
-        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 48.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(84, 329)
+        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Location = New System.Drawing.Point(840, 489)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(693, 133)
-        Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Go to Form 2"
+        Me.Button2.Size = New System.Drawing.Size(210, 71)
+        Me.Button2.TabIndex = 3
+        Me.Button2.Text = "Go Back"
         Me.Button2.UseVisualStyleBackColor = True
+        '
+        'Button3
+        '
+        Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.Location = New System.Drawing.Point(624, 489)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(210, 70)
+        Me.Button3.TabIndex = 4
+        Me.Button3.Text = "Exit"
+        Me.Button3.UseVisualStyleBackColor = True
         '
         'Form3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(857, 630)
+        Me.BackColor = System.Drawing.Color.CornflowerBlue
+        Me.ClientSize = New System.Drawing.Size(1081, 587)
+        Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.DTTanggal)
         Me.Name = "Form3"
         Me.Text = "Form3"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
+    Friend WithEvents DTTanggal As System.Windows.Forms.DateTimePicker
+    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents Button2 As System.Windows.Forms.Button
+    Friend WithEvents Button3 As System.Windows.Forms.Button
 End Class

@@ -35,7 +35,7 @@ Partial Class Form1
         Me.Label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Label1.Font = New System.Drawing.Font("Palatino Linotype", 72.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(246, 45)
+        Me.Label1.Location = New System.Drawing.Point(231, 44)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(690, 163)
         Me.Label1.TabIndex = 0
@@ -54,9 +54,9 @@ Partial Class Form1
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(934, 501)
+        Me.Button2.Location = New System.Drawing.Point(936, 484)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(139, 52)
+        Me.Button2.Size = New System.Drawing.Size(162, 69)
         Me.Button2.TabIndex = 2
         Me.Button2.Text = "Exit"
         Me.Button2.UseVisualStyleBackColor = True
@@ -68,7 +68,7 @@ Partial Class Form1
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(597, 83)
         Me.Button3.TabIndex = 3
-        Me.Button3.Text = "Go to Form 3"
+        Me.Button3.Text = "Pemilihan Tanggal"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Form1
