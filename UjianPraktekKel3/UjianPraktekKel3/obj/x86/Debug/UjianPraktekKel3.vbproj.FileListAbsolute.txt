@@ -1,0 +1,12 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\UjianPraktekKel3\bin\Debug\UjianPraktekKel3.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\UjianPraktekKel3\bin\Debug\UjianPraktekKel3.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\UjianPraktekKel3\bin\Debug\UjianPraktekKel3.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\UjianPraktekKel3\obj\x86\Debug\UjianPraktekKel3.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\UjianPraktekKel3\obj\x86\Debug\UjianPraktekKel3.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\UjianPraktekKel3\obj\x86\Debug\UjianPraktekKel3.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\UjianPraktekKel3\obj\x86\Debug\UjianPraktekKel3.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\UjianPraktekKel3\obj\x86\Debug\UjianPraktekKel3.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\UjianPraktekKel3\obj\x86\Debug\UjianPraktekKel3.pdb
+C:\App Kel 3\UjianPraktekKel3\UjianPraktekKel3\obj\x86\Debug\UjianPraktekKel3.exe
+C:\App Kel 3\UjianPraktekKel3\UjianPraktekKel3\obj\x86\Debug\UjianPraktekKel3.xml
+C:\App Kel 3\UjianPraktekKel3\UjianPraktekKel3\obj\x86\Debug\UjianPraktekKel3.pdb
